@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 This project is missing the node modules, install it to ensure it works correctly!
+During this project we learned how to incorporate React Bootstrap and react-router-dom to make a single page application using React!
 
 ## Available Scripts
 
